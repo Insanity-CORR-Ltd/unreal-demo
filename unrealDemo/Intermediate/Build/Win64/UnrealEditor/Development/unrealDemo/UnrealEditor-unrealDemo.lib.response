@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-unrealDemo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\Repos\Unreal\unreal-demo\unrealDemo\Intermediate\Build\Win64\unrealDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Projects\Repos\Unreal\unreal-demo\unrealDemo\Intermediate\Build\Win64\UnrealEditor\Development\unrealDemo\MyActorComponent.cpp.obj"
+"D:\Projects\Repos\Unreal\unreal-demo\unrealDemo\Intermediate\Build\Win64\UnrealEditor\Development\unrealDemo\unrealDemo.cpp.obj"
+"D:\Projects\Repos\Unreal\unreal-demo\unrealDemo\Intermediate\Build\Win64\UnrealEditor\Development\unrealDemo\MyActorComponent.gen.cpp.obj"
+"D:\Projects\Repos\Unreal\unreal-demo\unrealDemo\Intermediate\Build\Win64\UnrealEditor\Development\unrealDemo\unrealDemo.init.gen.cpp.obj"
+"D:\Projects\Repos\Unreal\unreal-demo\unrealDemo\Intermediate\Build\Win64\UnrealEditor\Development\unrealDemo\Default.rc2.res"
+/OUT:"D:\Projects\Repos\Unreal\unreal-demo\unrealDemo\Intermediate\Build\Win64\UnrealEditor\Development\unrealDemo\UnrealEditor-unrealDemo.lib"
